@@ -26,7 +26,7 @@ Snipping tool doesn't have autosave feature in windows 10, To automate this the 
   * Apply shortcut
 8. Now whenever your clipboard has image content it'll save to your "_Pictures/Screenshots_" folder
 ## Demo
-
+![](https://i.imgur.com/yhBeDo9.gif)
 
 ### Note:
 > Windows keyboard shortcuts will work fine on "_Desktop_" folder and "_Start Menu_" folder.
