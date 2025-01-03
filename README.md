@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://i.imgur.com/0ZSQC7O.jpg" width=500 height=auto/>
+</p>
+
 # Windows 10 Snipping script
 Snipping tool doesn't have autosave feature in windows 10, To automate this the PowerShell script in action.
 (Even snip and sketch not saving though)
@@ -21,6 +25,8 @@ Snipping tool doesn't have autosave feature in windows 10, To automate this the 
   * Assign a shortcut key `CTRL + ALT + S`
   * Apply shortcut
 8. Now whenever your clipboard has image content it'll save to your "_Pictures/Screenshots_" folder
+## Demo
+
 
 ### Note:
 > Windows keyboard shortcuts will work fine on "_Desktop_" folder and "_Start Menu_" folder.
