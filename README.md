@@ -1,5 +1,5 @@
-![liscense](https://img.shields.io/badge/Liscense-MIT-blue)
-![os](https://img.shields.io/badge/OS-Windows-green)
+[![liscense](https://img.shields.io/badge/Liscense-MIT-blue)](https://github.com/astrohexdev/windows-snip-script/blob/main/LICENSE)
+[![os](https://img.shields.io/badge/OS-Windows-green)](#)
 # 🪁 Windows 10 Snipping script
 Snipping tool doesn't have autosave feature in windows 10, To automate this the PowerShell script in action.
 (Even snip and sketch not saving though)
