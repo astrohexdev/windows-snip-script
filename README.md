@@ -10,7 +10,7 @@ Snipping tool doesn't have autosave feature in windows 10, To automate this the 
 3. Light weight.
 4. Portable.
 ## 🧧 How to use?
-1. Download the file in [`Releases`](https://github.com/astrohexdev/windows-snip-script/releases)  
+1. Download the file in [Releases](https://github.com/astrohexdev/windows-snip-script/releases)  
 2. Create a folder `Snip` in `C:/users/your-acc/AppData/Local` or any safe place you want ![folder|300](https://i.imgur.com/109tLau.png)
 3. Place 2 files in that `Snip` folder
 4. Go to `C:\Users\your-acc\AppData\Roaming\Microsoft\Windows\Start Menu`
